@@ -1,5 +1,32 @@
 ## Definiciones alternativas y modernas de entropía
 ---
+### Entropía como propiedad de la termodinámica 
+
+***Se denomina entropía a la magnitud que indica la energía que no puede realizar un trabajo útil en un proceso termodinámico.***
+
+La entropía se define como la medida de la dispersión de la energía en un sistema. Cuanto mayor es la entropía de un sistema, mayor es su grado de aleatoridad. Se puede pensar en la entropía como una medida de la cantidad de posibles configuraciones que puede tener un sistema, considerando todas las posibles combinaciones de partículas y energía. Se denota con la letra S y se expresa en unidades de energía dividida por temperatura, generalmente en julios por kelvin (J/K).
+
+La entropía física, en su forma clásica, es definida por la ecuación propuesta por Rudolf Clausius:
+
+*dS=dQ/T*
+
+Esta es una magnitud termodinámica definida originalmente como criterio para predecir la evolución de los sistemas termodinámicos. En todo proceso irreversible, el desorden del sistema aumenta y por lo tanto, la entropía aumenta. Si el proceso es reversible, la variación de entropía es nula.
+
+La entropía de un sistema es una función de estado de carácter extensivo. El valor de esta magnitud física, en un sistema aislado, crece en el transcurso de un proceso que se da de forma natural. El concepto de entropía describe cómo es de irreversible un sistema termodinámico.
+
+En resumen, es un concepto fundamental en la termodinámica que se utiliza para medir la dispersión de la energía en un sistema y esta afecta la capacidad de un sistema para realizar trabajo útil.
+
+**Aplicaciones:**
+
+- Podemos encontrar la aplicación de la entropía en las reacciones químicas. La variación de entropía nos muestra la variación del orden molecular ocurrido en una reacción química. Si el incremento de entropía es positivo, los productos presentan un mayor desorden molecular (mayor entropía) que los reactivos. En cambio, cuando el incremento es negativo, los productos son más ordenados. Hay una relación entre la entropía y la espontaneidad de una reacción química, que viene dada por la energía libre de Gibbs.
+
+---
+**Referencias:** 
+1. https://solar-energia.net/termodinamica/propiedades-termodinamicas/entropia
+2. https://conceptos.es/entropia-en-termodinamica
+3. https://www.quimica.es/enciclopedia/Entrop%C3%ADa_%28termodin%C3%A1mica%29.html#Evidencias
+
+---
 ### Entropía como calidad de información
 *"La entropía en la teoría mide la incertidumbre de los resultados y se aplica en la codificación para optimizar la comprensión y transmisión de datos."*
 
@@ -81,23 +108,3 @@ Esta cantidad, SA, es la entropía de entrelazamiento del sistema conjunto AB. E
 2. https://modern-physics.org/entropia-de-entrelazamiento-vision-general-y-significado/
    
 ---
-### Entropía como propiedad de la termodinámica 
-
-**Se denomina entropía a la magnitud que indica la energía que no puede realizar un trabajo útil en un proceso termodinámico.**
-
-La entropía se define como la medida de la dispersión de la energía en un sistema. Cuanto mayor es la entropía de un sistema, mayor es su grado de aleatoridad. Se puede pensar en la entropía como una medida de la cantidad de posibles configuraciones que puede tener un sistema, considerando todas las posibles combinaciones de partículas y energía. Se denota con la letra S y se expresa en unidades de energía dividida por temperatura, generalmente en julios por kelvin (J/K).
-
-La entropía física, en su forma clásica, es definida por la ecuación propuesta por Rudolf Clausius:
-
-*dS=dQ/T*
-
-Esta es una magnitud termodinámica definida originalmente como criterio para predecir la evolución de los sistemas termodinámicos. En todo proceso irreversible, el desorden del sistema aumenta y por lo tanto, la entropía aumenta. Si el proceso es reversible, la variación de entropía es nula.
-
-La entropía de un sistema es una función de estado de carácter extensivo. El valor de esta magnitud física, en un sistema aislado, crece en el transcurso de un proceso que se da de forma natural. El concepto de entropía describe cómo es de irreversible un sistema termodinámico.
-
-En resumen, es un concepto fundamental en la termodinámica que se utiliza para medir la dispersión de la energía en un sistema y esta afecta la capacidad de un sistema para realizar trabajo útil.
-
----
-**Referencias:** 
-1. https://solar-energia.net/termodinamica/propiedades-termodinamicas/entropia
-2. https://conceptos.es/entropia-en-termodinamica
